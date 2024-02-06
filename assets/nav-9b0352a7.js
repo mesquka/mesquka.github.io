@@ -1,0 +1,1 @@
+import{_ as t}from"./Navigation-5a885736.js";import{_ as c,r as s,o as r,c as _,a as o}from"./index-3c1a1105.js";import"./iconify-27457e27.js";const a={},i={class:"content"};function m(p,l){const e=t,n=s("router-view");return r(),_("div",i,[o(e,{class:"nav"}),o(n)])}const d=c(a,[["render",m]]);export{d as default};
