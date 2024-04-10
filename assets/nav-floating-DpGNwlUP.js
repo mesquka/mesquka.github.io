@@ -1,0 +1,1 @@
+import{_ as t}from"./Navigation-Bh2zKR-y.js";import{_ as c,r as a,o as s,c as _,a as o}from"./index-BZSnMEcp.js";import"./iconify-M0qmFQ6P.js";const r={},i={class:"content"};function p(m,l){const e=t,n=a("router-view");return s(),_("div",i,[o(e,{class:"nav"}),o(n)])}const u=c(r,[["render",p],["__scopeId","data-v-8b860a18"]]);export{u as default};
